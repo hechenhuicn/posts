@@ -1,24 +1,18 @@
 # posts
 
-## Project setup
-```
-npm install
-```
+It's a Vue project which uses vuex and vue-router
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+本项目主要展示vue的使用
 
-### Compiles and minifies for production
-```
-npm run build
-```
+功能描述：
+图文列表的展示和详细内容的展示
 
-### Lints and fixes files
-```
-npm run lint
-```
+使用：
+（1）npm run dev-server 启动后端服务数据
+（2）npm run serve 启动vue项目
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+技术点：
+（1）基于vue-cli3脚手架创建的vue项目
+（2）采用axios与后端交互
+（3）使用了Vuex和Vue-router
+
